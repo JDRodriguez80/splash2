@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "splash2", "splash2\splash2.csproj", "{7E73FB3C-6422-4EEC-9ACC-3FE594CE0148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E73FB3C-6422-4EEC-9ACC-3FE594CE0148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E73FB3C-6422-4EEC-9ACC-3FE594CE0148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E73FB3C-6422-4EEC-9ACC-3FE594CE0148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E73FB3C-6422-4EEC-9ACC-3FE594CE0148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF67D347-051B-42ED-B0DB-24AFDE46BCB6}
+	EndGlobalSection
+EndGlobal
